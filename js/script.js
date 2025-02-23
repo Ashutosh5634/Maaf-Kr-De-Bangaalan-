@@ -247,4 +247,6 @@ const lyricsData = [
       confetti.addEventListener('animationend', () => confetti.remove());
     }
   }
+
+
   
